@@ -1,0 +1,14 @@
+#sidebar{
+	width: 300px;
+	background-color: rgba(0,0,64,1.0);
+	overflow-y: scroll;
+}
+
+#content{
+	padding-left: 300px;
+	/*padding-top:30px;*/
+}
+
+.row{
+	margin-bottom: 10px;
+}
